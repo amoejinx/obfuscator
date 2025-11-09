@@ -1,7 +1,7 @@
 {
-    "name": "obfuscator-io-deobfuscator",
+    "name": "obfuscator",
     "version": "1.0.6",
-    "description": "A deobfuscator for scripts obfuscated by Obfuscator.io",
+    "description": "A deobfuscator for scripts obfuscated",
     "main": "dist/index.js",
     "bin": "dist/cli.js",
     "types": "dist/index.d.ts",
